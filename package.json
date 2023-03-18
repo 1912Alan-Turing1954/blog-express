@@ -1,0 +1,24 @@
+{
+  "name": "blog-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1912Alan-Turing1954/blog-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1912Alan-Turing1954/blog-express/issues"
+  },
+  "homepage": "https://github.com/1912Alan-Turing1954/blog-express#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
